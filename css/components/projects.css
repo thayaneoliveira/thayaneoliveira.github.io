@@ -1,6 +1,12 @@
 .projects {
+  background-color: var(--light-tertiary-color);
   margin-bottom: 16rem;
-  scroll-margin-top: 15rem;
+  padding: 5rem;
+  border-radius: 5px;
+  scroll-margin-top: 20rem;
+  box-shadow: rgba(85, 85, 85, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(148, 148, 148, 0.17) 0px 12px 13px, rgba(102, 102, 102, 0.09) 0px -3px 5px;
 }
 
 .projects .projects__content {
